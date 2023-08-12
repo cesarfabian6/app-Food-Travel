@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mama Mia",
+        "tipo_cocina": "Italiana",
+        "ingredientes": ["Ingrediente A", "Ingrediente B"],
+        "precio_minimo": 20.0,
+        "precio_maximo": 50.0,
+        "popularidad": 4.2,
+        "id_ubicacion": 1,
+        "imagen": "https://tipsparatuviaje.com/wp-content/uploads/2020/03/lasana-comida.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Peña Balderrama",
+        "tipo_cocina": "Regional",
+        "ingredientes": ["Ingrediente C", "Ingrediente D"],
+        "precio_minimo": 15.0,
+        "precio_maximo": 40.0,
+        "popularidad": 3.8,
+        "id_ubicacion": 2,
+        "imagen": "https://ejemplo.com/imagen2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Bier",
+        "tipo_cocina": "Cerveceria",
+        "ingredientes": ["Ingrediente A", "Ingrediente B"],
+        "precio_minimo": 20.0,
+        "precio_maximo": 50.0,
+        "popularidad": 4.2,
+        "id_ubicacion": 1,
+        "imagen": "https://tipsparatuviaje.com/wp-content/uploads/2020/03/lasana-comida.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Vacas Club",
+        "tipo_cocina": "Parrilladas",
+        "ingredientes": ["Ingrediente A", "Ingrediente B"],
+        "precio_minimo": 20.0,
+        "precio_maximo": 50.0,
+        "popularidad": 4.2,
+        "id_ubicacion": 1,
+        "imagen": "https://tipsparatuviaje.com/wp-content/uploads/2020/03/lasana-comida.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "La Fiamma",
+        "tipo_cocina": "Pizzeria",
+        "ingredientes": ["Ingrediente A", "Ingrediente B"],
+        "precio_minimo": 20.0,
+        "precio_maximo": 50.0,
+        "popularidad": 4.2,
+        "id_ubicacion": 1,
+        "imagen": "https://tipsparatuviaje.com/wp-content/uploads/2020/03/lasana-comida.jpg"
+    }
+]
